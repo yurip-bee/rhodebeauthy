@@ -1,0 +1,10 @@
+header{
+	height: 330px;
+	padding-top: 120px;
+	padding-bottom:120px;
+	background-image: url("../imagenes/banner.JPEG") ;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	background-position: center;
+}

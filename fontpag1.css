@@ -1,0 +1,31 @@
+head{
+	font-family: "Montserrat", sans-serif;
+	font-size:  50px;
+	color:#838383;
+}
+h1{
+	margin-bottom: 30px;
+	margin-top: 30px;
+	font-family: "Montserrat", sans-serif;
+	font-size: 60px;
+	color: #838383;
+	text-align: left;
+	padding-right: 40px;
+    padding-left: 40px;
+    pagging-top:20px;
+    padding-bottom: 20px;
+
+}
+main{
+	margin-bottom: 30px;
+	margin-top: 30px;
+	font-family: "Montserrat", sans-serif;
+	font-size: 20px;
+	color:#838383 ;
+	text-align: justify;
+	width: 400px;
+	padding-right: 40px;
+    padding-left: 40px;
+    pagging-top:20px;
+    padding-bottom: 20px;
+}
